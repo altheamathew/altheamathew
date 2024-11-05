@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning data analysis, SQL, and Power BI
+- 🌱 Passionate Data Analyst, SQL, and Power BI
 - 👩‍💻 Passionate about using data-driven insights to solve real-world problems
 - 📊 I enjoy working on projects that involve data visualization, business intelligence, and process optimization
 - 🎯 Current goal: Master advanced SQL queries and data visualization with Power BI
