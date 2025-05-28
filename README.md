@@ -28,6 +28,10 @@ Across roles, I’ve consistently brought a hands-on, reliable, and impact-drive
 - **Machine Learning & BI**: Regression, classification, SVM, decision trees, Google Analytics, KPI tracking.
 - **Tools**: Excel (advanced VBA/Macros), Jira, Trello.
 
+- ## 💡 Entrepreneurial Vision
+
+- I am Passionate about building data-driven systems that enable organizations to move from reactive to proactive planning and committed to using data as a catalyst for smarter business models and more transparent decision-making by creating ventures that fuse analytics with real-world applications—driving operational efficiency, ethical data use, and measurable social or business impact.  
+
 ## 📫 How to reach me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/althea-mathew/) 
